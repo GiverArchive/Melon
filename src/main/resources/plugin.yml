@@ -1,0 +1,4 @@
+name: 'Melon'
+version: 1.0.0
+description: 'Melon'
+main: me.giverplay.melon.Melon
